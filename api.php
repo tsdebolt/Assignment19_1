@@ -1,6 +1,8 @@
 <?php
 
 // Merge conflict
+//Test update
+
 echo "<a target='_blank' href='https://github.com/tsdebolt/cis355.github.io'>GitHub Code</a> <br/>";
 
 echo "<br/>
